@@ -1,16 +1,15 @@
-## Hi there 👋
+### Neil Suárez
 
-<!--
-**neils33Arquitec/neils33Arquitec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrónica y control · Diagnóstico de vehículos eléctricos e híbridos · IA aplicada
 
-Here are some ideas to get you started:
+Trabajo en sistemas embebidos y control automático (Arduino, ESP32, PID, CAN bus), y en diagnóstico electrónico de vehículos EV/híbridos con herramientas de escaneo e IA asistiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyectos destacados:**
+
+🔧 [control-caudal](https://github.com/neils33Arquitec/control-caudal) — Controlador PID digital en lazo cerrado (Arduino + sensor de flujo + puente H)
+
+⚙️ [Proyectos-de-Electronica](https://github.com/neils33Arquitec/Proyectos-de-Electronica) — Sistema de llenado con Arduino + ESP32, app web embebida, modelado en MATLAB/Simulink
+
+🤖 [python-anomaly-detector](https://github.com/neils33Arquitec/python-anomaly-detector) — Detección de anomalías con Isolation Forest y Scikit-learn
+
+📫 [LinkedIn](https://www.linkedin.com/in/neilsuarez)
