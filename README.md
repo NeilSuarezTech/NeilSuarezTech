@@ -1,15 +1,19 @@
 ### Neil Suárez
 
-Electrónica y control · Diagnóstico de vehículos eléctricos e híbridos · IA aplicada
+IA aplicada y desarrollo de software · Electrónica y control (proyectos secundarios)
 
-Trabajo en sistemas embebidos y control automático (Arduino, ESP32, PID, CAN bus), y en diagnóstico electrónico de vehículos EV/híbridos con herramientas de escaneo e IA asistiva.
+Desarrollo software e IA aplicada: integración de APIs, modelos de machine learning y aplicaciones de datos. Como base técnica tengo formación en electrónica y control (sistemas embebidos, Arduino, ESP32), que uso como complemento y no como foco principal.
 
-**Proyectos destacados:**
+**Proyectos de IA y software:**
 
-🔧 [control-caudal](https://github.com/neils33Arquitec/control-caudal) — Controlador PID digital en lazo cerrado (Arduino + sensor de flujo + puente H)
+🤖 [python-anomaly-detector](https://github.com/NeilSuarezTech/python-anomaly-detector) — Detección de anomalías con Isolation Forest y Scikit-learn
 
-⚙️ [Proyectos-de-Electronica](https://github.com/neils33Arquitec/Proyectos-de-Electronica) — Sistema de llenado con Arduino + ESP32, app web embebida, modelado en MATLAB/Simulink
+🛰️ [farmclimetech-app](https://github.com/NeilSuarezTech/farmclimetech-app) — App de soporte a decisiones agrícolas con datos satelitales de la NASA (React, TypeScript, APIs de NASA POWER/GIBS, SoilGrids) — NASA Space Apps Challenge 2026
 
-🤖 [python-anomaly-detector](https://github.com/neils33Arquitec/python-anomaly-detector) — Detección de anomalías con Isolation Forest y Scikit-learn
+🌾 [farm-clim-tech](https://github.com/NeilSuarezTech/farm-clim-tech) — Landing page del mismo proyecto de NASA Space Apps
+
+**Proyectos de electrónica (secundario):**
+
+🔧 [control-caudal](https://github.com/NeilSuarezTech/control-caudal) — Controlador PID digital en lazo cerrado (Arduino + sensor de flujo + puente H)
 
 📫 [LinkedIn](https://www.linkedin.com/in/neilsuarez)
